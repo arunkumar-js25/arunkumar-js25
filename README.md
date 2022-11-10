@@ -10,7 +10,7 @@ BIO
 I'm a passionate IT Professional based in Chennai, Tamil Nadu, India.
 
 ⚙️ I use daily: Python, Javascript, Selenium, BML.
-- 🔭 I’m currently working on building Cloud Native Applications
+- 🔭 I’m currently working on my portfolio.
 - 🌱 Learning all about web3 and Machine Learning
 - 👯 I’m looking to collaborate on Building ML based applications for real time problems.
 - 🤔 I’m looking for help with Application creation ideas
