@@ -27,5 +27,5 @@ I'm a passionate IT Professional based in Chennai, Tamil Nadu, India.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arunkumar-js25&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumar-js25&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=arunkumar-js25&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arunkumar-js25&margin-w=8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
