@@ -4,9 +4,9 @@
 --| --| --| --|
 
 
-### Hi there, I'm Arun 👋
+## Hi there, I'm Arun 👋
 
-# BIO
+### BIO
 I'm a passionate IT Professional based in Chennai, Tamil Nadu, India.
 
 ⚙️ I use daily: Python, Javascript, Selenium, BML.
