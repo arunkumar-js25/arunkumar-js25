@@ -16,8 +16,7 @@ I'm a passionate IT Professional based in Chennai, Tamil Nadu, India.
 - 🤔 I’m looking for help with Application creation ideas
 - 💬 Ask me about Python, Desktop/Web Automations, Oracle Database, Oracle ERP, SQL, PLSQL, C#, Selenium. 
 - 📫 How to reach me: arunkumar.js25@gmail.com, [LinkedIn](https://www.linkedin.com/in/arunkumar-js25/), [Replit](https://replit.com/@arunkumar-js25), [CodePen](https://codepen.io/arunkumar-js25)
-
-<br><br>
+<br>
 
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=arunkumar-js25&count_private=true&theme=tokyonight&showicons=true)]()
@@ -27,10 +26,6 @@ I'm a passionate IT Professional based in Chennai, Tamil Nadu, India.
 ![](https://github-readme-stats.vercel.app/api?username=arunkumar-js25&theme=light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arunkumar-js25&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumar-js25&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=arunkumar-js25&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<br>
