@@ -4,7 +4,8 @@
 --| --| --| --|
 
 
-## Hi there, I'm Arun 👋
+## Hi there,
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=👋%20I%20am%20Arun%20Kumar;&center=true&width=800&height=45"></p>
 
 ### BIO
 I'm a passionate IT Professional based in Chennai, Tamil Nadu, India.
