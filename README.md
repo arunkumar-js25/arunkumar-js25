@@ -7,7 +7,7 @@
 ## Hi there,
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=👋%20I%20am%20Arun%20Kumar;&center=true&width=800&height=45"></p>
 
-### BIO
+### BIO : [arunkumar-js25.vercel.app](https://arunkumar-js25.vercel.app)
 I'm a passionate IT Professional based in Chennai, Tamil Nadu, India.
 
 ⚙️ I use daily: Python, Javascript, Selenium, BML. 
@@ -18,8 +18,6 @@ I'm a passionate IT Professional based in Chennai, Tamil Nadu, India.
 - 💬 Ask me about Python, Desktop/Web Automations, Oracle Database, Oracle ERP, SQL, PLSQL, C#, Selenium. 
 - 📫 How to reach me: arunkumar.js25@gmail.com, [LinkedIn](https://www.linkedin.com/in/arunkumar-js25/), [Replit](https://replit.com/@arunkumar-js25), [CodePen](https://codepen.io/arunkumar-js25)
 <br>
-
-My Bio : arunkumar-js25.vercel.app
 
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=arunkumar-js25&count_private=true&theme=tokyonight&showicons=true)]()
