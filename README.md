@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Arun Kumar</h1>
+| [![Arun Kumar](https://img.shields.io/badge/ArunKumar-JS25-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=arunkumar-js25&color=green) | ![Followers](https://img.shields.io/github/followers/arunkumar-js25) | ![Stars](https://img.shields.io/github/stars/arunkumar-js25?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+--| --| --| --|
+
+<!--h1 align="center">Hi 👋, I'm Arun Kumar</h1-->
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20👋,%20I%20am%20Arun%20Kumar;&center=true&width=800&height=45"></h1>
 <h3 align="center">A passionate IT Professional from Chennai, Tamil Nadu, India.</h3>
 <br>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumar-js25&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumar-js25" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunkumar-js25" alt="arunkumar-js25" /></a> </p>
@@ -42,6 +47,7 @@
 <a href="https://www.hackerearth.com/@arunkumarjs25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@arunkumarjs25" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/arunkumarjs25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/arunkumarjs25" height="30" width="40" /></a>
 <a href="https://discord.gg/arunkumarjs25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="arunkumarjs25" height="30" width="40" /></a>
+<a href="https://replit.com/@arunkumar-js25" target="blank"><img align="center" src="assets/images/replit-icon-logo.png" alt="arunkumarjs25" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
