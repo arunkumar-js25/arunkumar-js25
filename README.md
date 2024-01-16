@@ -6,7 +6,7 @@
 <h3 align="center">A passionate IT Professional from Chennai, Tamil Nadu, India.</h3>
 <br>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumar-js25&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumar-js25" /> </p>
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumar-js25&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumar-js25" /> </p-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunkumar-js25" alt="arunkumar-js25" /></a> </p>
 
