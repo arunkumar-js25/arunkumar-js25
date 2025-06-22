@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on [https://fellowbeginners.wordpress.com/](https://fellowbeginners.wordpress.com/)
 
-- 💬 Ask me about **python, Oracle CX & SCM, Oracle EBS, C#, Selenium**
+- 💬 Ask me about **Oracle CX and ERP, Oracle EBS SCM, Python, .NET, Selenium**
 
 - 📫 How to reach me **arunkumar.js25@gmail.com**
 
